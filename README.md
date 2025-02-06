@@ -10,6 +10,10 @@ This is an e-commerce store built with Next.js, integrating a headless CMS (Sani
 - Cart & Checkout system
 - Headless CMS (Sanity.io, Contentful, or Shopify API)
 
+## Live Demo
+
+Check out the live demo of the project: [Live Demo](ecommerce-store-cnbmz2hdy-snehals-projects-ecbee2cb.vercel.app)
+
 ## Getting Started
 
 1. Clone the repository
